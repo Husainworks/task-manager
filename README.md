@@ -55,7 +55,7 @@ This repository showcases:
 
 ```bash
 # Clone repository
-git clone https://github.com/your-username/task-manager-mern.git
+git clone https://github.com/Husainworks/task-manager.git
 
 # Install backend dependencies
 cd backend
